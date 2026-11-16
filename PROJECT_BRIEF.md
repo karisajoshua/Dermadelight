@@ -1,7 +1,7 @@
 # Derma Delight — Preliminary Product Brief
 
 ## Purpose
-Create a premium Kenyan single-brand e-commerce experience for adult skincare and children's body/hair care. The store is owned and operated by Derma Delight, not a marketplace.
+Create a premium Kenyan single-brand e-commerce experience for adult skincare, children's body/hair care and men's beard grooming. The store is owned and operated by Derma Delight, not a marketplace.
 
 ## Brand
 - Name: Derma Delight
@@ -21,11 +21,15 @@ Create a premium Kenyan single-brand e-commerce experience for adult skincare an
 | Kids | Kids Body Lotion | 400 ml |
 | Kids | Kids Hair Shampoo | 400 ml |
 | Kids | Kids Body Cream | 250 g |
+| Beard Care | Nourishing Beard Oil | To be confirmed |
+| Beard Care | Beard Wash | To be confirmed |
+| Beard Care | Beard Balm | To be confirmed |
+| Beard Care | Beard Moisturiser | To be confirmed |
 
-Names and sizes are planning assumptions and should be confirmed. Prices, ingredients, benefits, claims, formulations and certifications must be approved before launch.
+Beard Care products are concepts, not confirmed manufactured stock. Avoid beard-growth or medical efficacy claims without appropriate substantiation. Names and sizes are planning assumptions and should be confirmed. Prices, ingredients, benefits, claims, formulations and certifications must be approved before launch.
 
 ## Experience
-Homepage: announcement, navigation, editorial hero, Adults/Kids collection cards, product grid, brand values, story, closing call-to-action and footer.
+Homepage: announcement, navigation, editorial hero, Adults/Kids/Beard Care collection cards, product grid, brand values, story, closing call-to-action and footer.
 
 Customer flows (future): browse → view product → add to cart → choose delivery → pay → receive confirmation → track order.
 
