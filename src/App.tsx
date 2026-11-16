@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
-import { ArrowRight, FlaskConical, Leaf, MapPinned, Menu, Minus, Plus, Search, ShieldCheck, ShoppingBag, Sparkles, Truck, UserRound, X } from 'lucide-react';
+import { ArrowRight, FlaskConical, Leaf, MapPinned, Menu, Minus, Plus, Search, ShieldCheck, ShoppingBag, Truck, UserRound, X } from 'lucide-react';
 import { products, formatPrice, type Product, type Collection } from './catalog';
 
 type Cart = Record<string, number>;
