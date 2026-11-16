@@ -1,7 +1,7 @@
 # Derma Delight Design System (Preliminary)
 
 ## Identity
-Elegant, welcoming, premium Kenyan beauty brand with distinct adult and kids collections.
+Elegant, welcoming, premium Kenyan beauty brand with distinct adult, kids and beard-care collections.
 
 ## Palette
 | Token | Value | Usage |
@@ -10,6 +10,7 @@ Elegant, welcoming, premium Kenyan beauty brand with distinct adult and kids col
 | Rose gold | #D8A17E | Accent |
 | Chocolate | #553225 | Primary text and CTA |
 | Kids pink | #F5B4C9 | Kids collection |
+| Beard taupe | #85715F | Beard Care collection |
 | White | #FFFFFF | Product surfaces |
 
 ## Typography
@@ -21,7 +22,7 @@ Elegant, welcoming, premium Kenyan beauty brand with distinct adult and kids col
 - Generous whitespace and refined typography
 - Consistent cards, buttons, spacing and accessible contrast
 - Mobile-first navigation and usable touch targets
-- Adults: champagne, copper and ivory; Kids: pink, peach and cream
+- Adults: champagne, copper and ivory; Kids: pink, peach and cream; Beard Care: warm taupe, charcoal and bronze
 
 ## Product photography
 - One realistic product per catalogue image
